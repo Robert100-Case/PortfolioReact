@@ -1,0 +1,198 @@
+
+:root {
+  --foregr:rgba(0, 128, 0);
+  --backgr:rgba(126, 126, 126);
+  --hover: rgba(128,0, 200);
+
+}
+
+header {
+  display:flex;
+  justify-content:space-between;
+  flex-direction: row;
+  color:var(--foregr);
+  background-color:var(--backgr)
+}
+header h1{
+  text-align: left;
+  color:gray;
+  background-color: var(--foregr);
+  border-right:var(--foregr) solid 10px;
+}
+
+.heroBanner {
+  /*background-image: url("02-hero-bg.jpg");*/
+  display:flex;
+  justify-content:space-between;
+  flex-direction: row;
+  color:var(--foregr);
+  background-color:var(--backgr);
+}
+
+.heroBanner img {
+  display:flex;
+  /*justify-content:flex-end;*/
+  flex-direction: row;
+
+}
+
+nav {
+ /* text-align:right;*/
+ 
+ display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+
+nav  a {
+  text-decoration: underline var(--foregr);
+  font-size: x-large;
+  color: var(--foregr);
+}
+
+nav a:hover{ 
+  text-decoration:var(--hover) underline;
+}
+
+.container {
+  max-width: 88%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.resumeSections {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: space-between;
+  /*border-left:green solid 5px;*/
+  color:var(--foregr);/*text-align: right;*/
+
+}
+
+.resumeSections  h1 {
+  flex: 0 0 20%;
+  text-align: right;
+  padding-right: 15px;
+  border-right: 4px solid var(--foregr);
+  font-size: 4vw;
+  line-height: 1.1;
+}
+.resumeSections  div {
+  flex: 0 0 75%;
+}
+
+   
+img {
+  margin-top: 20px;
+}
+p {
+  color:var(--f);
+  margin-top: 20px;
+}
+
+.skills {
+  background-color: var(--foregr);
+  color:var(--backgr);
+  border-right: 5px;
+  margin-top: 200px;
+  margin-left: 700px;
+  width:160px;  
+}
+
+
+
+.project1 {
+  border:var(--backgr);
+  border-style: solid;
+  width:900px;
+  height:300px;
+  margin-top: 20px;
+  
+  /*background-image: url("Pokemon2.png");*/
+  background-repeat: no-repeat;
+/*  background-size: 100% 100%;*/
+  
+}
+
+.project2 {
+  border:var(--backgr);
+  border-style: solid;
+  width:900px;
+  height:300px;
+  margin-top: 20px;
+  /*background-image: url("dayplanner.jpg");*/
+  background-repeat: no-repeat;
+  
+  }
+  
+  .project3 {
+  border:var(--backgr);
+  border-style: solid;
+  width:900px;
+  height:300px;
+  margin-top: 20px;
+  /*background-image: url("weatherdashboard2.png");*/
+  background-repeat: no-repeat;
+  
+  
+}
+
+address {
+  font-size:x-large;
+  text-align: center;
+  color:var(--foregr);
+  text-decoration: underline green;
+  margin-top: 20px;
+}
+
+address a {
+  color:var(--foregr);
+  margin:10px;
+}
+
+address a:hover{ 
+  text-decoration:var(--hover) underline;
+}
+
+@media screen and (max-width: 960px) {
+  header {
+    padding: 0 0 10px 0;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  
+  
+  .resumeSections  div {
+    flex: 0 0 100%;
+  }
+
+  .resumeSections > h2 {
+    flex:0 0 100%;
+    border-right: none;
+    border-bottom: 4px solid var(--hover);
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-size: 7vw;
+  }
+  .heroBanner {
+    justify-content: center;
+    text-align: center;
+  } 
+
+  .resumeSections div  address {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+}
+
+
+
