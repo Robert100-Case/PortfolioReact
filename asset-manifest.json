@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Robert100-Case/PortfolioReact/static/css/main.caeefe88.chunk.css",
+    "main.js": "/Robert100-Case/PortfolioReact/static/js/main.b985ad43.chunk.js",
+    "main.js.map": "/Robert100-Case/PortfolioReact/static/js/main.b985ad43.chunk.js.map",
+    "runtime-main.js": "/Robert100-Case/PortfolioReact/static/js/runtime-main.8e2d3839.js",
+    "runtime-main.js.map": "/Robert100-Case/PortfolioReact/static/js/runtime-main.8e2d3839.js.map",
+    "static/js/2.1d2e86b7.chunk.js": "/Robert100-Case/PortfolioReact/static/js/2.1d2e86b7.chunk.js",
+    "static/js/2.1d2e86b7.chunk.js.map": "/Robert100-Case/PortfolioReact/static/js/2.1d2e86b7.chunk.js.map",
+    "index.html": "/Robert100-Case/PortfolioReact/index.html",
+    "precache-manifest.e47f5397bd7b4b3478db703bf5b8f8fc.js": "/Robert100-Case/PortfolioReact/precache-manifest.e47f5397bd7b4b3478db703bf5b8f8fc.js",
+    "service-worker.js": "/Robert100-Case/PortfolioReact/service-worker.js",
+    "static/css/main.caeefe88.chunk.css.map": "/Robert100-Case/PortfolioReact/static/css/main.caeefe88.chunk.css.map",
+    "static/js/2.1d2e86b7.chunk.js.LICENSE.txt": "/Robert100-Case/PortfolioReact/static/js/2.1d2e86b7.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Robert100-Case/PortfolioReact/static/media/weatherdashboard2.6c4c82c7.png",
+    "static/media/Budget.png": "/Robert100-Case/PortfolioReact/static/media/Budget.74410577.png",
+    "static/media/Pokemon2.png": "/Robert100-Case/PortfolioReact/static/media/Pokemon2.069d5be3.png",
+    "static/media/Robert_Rossman_Resume.PDF": "/Robert100-Case/PortfolioReact/static/media/Robert_Rossman_Resume.16f43f81.PDF",
+    "static/media/TeamProfile.png": "/Robert100-Case/PortfolioReact/static/media/TeamProfile.d993b41c.png",
+    "static/media/picture of me.jpg": "/Robert100-Case/PortfolioReact/static/media/picture of me.e14f57d5.jpg",
+    "static/media/searchNews.png": "/Robert100-Case/PortfolioReact/static/media/searchNews.98d561d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e2d3839.js",
+    "static/js/2.1d2e86b7.chunk.js",
+    "static/css/main.caeefe88.chunk.css",
+    "static/js/main.b985ad43.chunk.js"
+  ]
+}
