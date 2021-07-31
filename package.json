@@ -10,7 +10,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://robert100-case.github.io/PortfolioReact",
+  "homepage": "https://github.com/Robert100-Case/PortfolioReact",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
