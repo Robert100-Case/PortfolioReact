@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.f5bbb9fd.chunk.css",
+    "main.js": "/PortfolioReact/static/js/main.b985ad43.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.b985ad43.chunk.js.map",
+    "runtime-main.js": "/PortfolioReact/static/js/runtime-main.b40e3afe.js",
+    "runtime-main.js.map": "/PortfolioReact/static/js/runtime-main.b40e3afe.js.map",
+    "static/js/2.1d2e86b7.chunk.js": "/PortfolioReact/static/js/2.1d2e86b7.chunk.js",
+    "static/js/2.1d2e86b7.chunk.js.map": "/PortfolioReact/static/js/2.1d2e86b7.chunk.js.map",
+    "index.html": "/PortfolioReact/index.html",
+    "precache-manifest.b730006fce4e344272a68b1b948e25d4.js": "/PortfolioReact/precache-manifest.b730006fce4e344272a68b1b948e25d4.js",
+    "service-worker.js": "/PortfolioReact/service-worker.js",
+    "static/css/main.f5bbb9fd.chunk.css.map": "/PortfolioReact/static/css/main.f5bbb9fd.chunk.css.map",
+    "static/js/2.1d2e86b7.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.1d2e86b7.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/PortfolioReact/static/media/weatherdashboard2.6c4c82c7.png",
+    "static/media/Budget.png": "/PortfolioReact/static/media/Budget.74410577.png",
+    "static/media/Pokemon2.png": "/PortfolioReact/static/media/Pokemon2.069d5be3.png",
+    "static/media/Robert_Rossman_Resume.PDF": "/PortfolioReact/static/media/Robert_Rossman_Resume.16f43f81.PDF",
+    "static/media/TeamProfile.png": "/PortfolioReact/static/media/TeamProfile.d993b41c.png",
+    "static/media/picture of me.jpg": "/PortfolioReact/static/media/picture of me.e14f57d5.jpg",
+    "static/media/searchNews.png": "/PortfolioReact/static/media/searchNews.98d561d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b40e3afe.js",
+    "static/js/2.1d2e86b7.chunk.js",
+    "static/css/main.f5bbb9fd.chunk.css",
+    "static/js/main.b985ad43.chunk.js"
+  ]
+}
